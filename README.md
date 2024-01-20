@@ -106,7 +106,7 @@ void loop() {
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 ![](https://github.com/Cris9901/PRACTICA-5-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/IMAGEN%205.jpg)
 ![](https://github.com/Cris9901/PRACTICA-5-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/IMAGEN%206.jpg)
-![]()
+![](https://github.com/Cris9901/PRACTICA-5-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/IMAGEN%207.jpg)
 # Créditos
 Desarrollado por Ing. Montañez Mejia Cristian
 
