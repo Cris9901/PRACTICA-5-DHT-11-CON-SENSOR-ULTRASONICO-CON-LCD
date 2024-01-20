@@ -8,7 +8,7 @@ La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en est
 ## Material Necesario
 Para realizar esta practica necesitas lo siguiente:
 - [WOKWI](https://https://wokwi.com/)
-- Tarjeta ESP 32
+- Tarjeta ESP32
 - Sensor DHT11
 - Sensor HC-SR04
 - Display LCD 16x2 (I2C)
