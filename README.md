@@ -89,7 +89,7 @@ void loop() {
 2. Instalar la libreria de **DHT sensor library for ESPx** y **LiquidCrystal I2C** como se muestra en la siguente imagen.
 ![](https://github.com/Cris9901/PRACTICA-5-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/IMAGEN%201.jpg)
 3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
-![]()
+![](https://github.com/Cris9901/PRACTICA-5-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/IMAGEN%202.jpg)
 4. Hacer la conexion de **HC-SR04** con la **ESP32** como se muestra en la siguente imagen.
 ![]()
 5. Hacer la conexion del **LCD 16x2 (I2C)** con la **ESP32** como se muestra en la siguente imagen.
