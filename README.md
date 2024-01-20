@@ -103,7 +103,7 @@ void loop() {
 5. Colocar la temperatura y humedad dando *doble click* al sensor **DHT11**
 
 ## Resultados
-Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+Cuando haya funcionado, verás los valores dentro del monitor serial y el display como se muestran en las siguentes imagenes.
 ![](https://github.com/Cris9901/PRACTICA-5-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/IMAGEN%205.jpg)
 ![](https://github.com/Cris9901/PRACTICA-5-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/IMAGEN%206.jpg)
 ![](https://github.com/Cris9901/PRACTICA-5-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/IMAGEN%207.jpg)
