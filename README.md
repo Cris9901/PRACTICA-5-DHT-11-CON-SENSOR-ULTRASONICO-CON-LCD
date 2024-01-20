@@ -93,7 +93,7 @@ void loop() {
 4. Hacer la conexion de **HC-SR04** con la **ESP32** como se muestra en la siguente imagen.
 ![](https://github.com/Cris9901/PRACTICA-5-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/IMAGEN%203.jpg)
 5. Hacer la conexion del **LCD 16x2 (I2C)** con la **ESP32** como se muestra en la siguente imagen.
-![]()
+![](https://github.com/Cris9901/PRACTICA-5-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/IMAGEN%204.jpg)
 
 ### Instrucciónes de operación
 1. Iniciar simulador.
