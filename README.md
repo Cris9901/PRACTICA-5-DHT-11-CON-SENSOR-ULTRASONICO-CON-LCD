@@ -1,5 +1,5 @@
 # PRACTICA-5-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD
-Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11, el sensor ultrasonico HC-SR04 y in display LCD.
+Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11, el sensor ultrasonico HC-SR04 y un display LCD.
 
 ## Introducción
 ### Descripción
